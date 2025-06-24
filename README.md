@@ -1,6 +1,11 @@
 # 💫 About Me:
 I'm a Full Stack Web Developer with a strong passion for creating responsive, user-friendly, and efficient web applications. I love building real-world projects that solve actual problems and help me grow as a developer. Whether it's designing intuitive frontends or developing powerful backend logic, I enjoy working on every part of the web development process.
+# Skills
+**Frontend** - Html, Css, React Js, Javascript, Typescript, Nextjs14, Tailwind, Framer-motion
 
+**Backend** - Node.js, Express, WebSockets, OAuth, Zod, Passport.js
+
+**DataBase** - MongoDB, PostgreSQL
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jitanshu27) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@jitanshu027) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jitanshu027@gmail.com) 
