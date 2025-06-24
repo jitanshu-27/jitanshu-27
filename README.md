@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm a Full Stack Web Developer with a strong passion for creating responsive, user-friendly, and efficient web applications. I love building real-world projects that solve actual problems and help me grow as a developer. Whether it's designing intuitive frontends or developing powerful backend logic, I enjoy working on every part of the web development process.
 # Skills
-**Frontend** - Html, Css, Javascript, Tailwind, 
+**Frontend** - Html, Css, Javascript, Tailwind 
 
 **Backend** - Node.js, Express,
 
